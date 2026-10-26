@@ -1,0 +1,15 @@
+node_modules/
+dist/
+coverage/
+.env
+.env.*
+!.env.example
+*.log
+*.local
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Unused starter assets are not part of the curated showcase.
+src/assets/
